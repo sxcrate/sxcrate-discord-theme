@@ -1,0 +1,23 @@
+/**
+        * @name Sxcrate Theme
+        * @version 1.2
+        * @description Creted by sxcrate#0001.
+        * @author discordthemes
+        * @website dev.sxcrate.it
+        */
+        @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+        :root {
+          --themeColor1: #6702ff;
+          --themeColor2: #6702ff;
+          --customFont: 'Open Sans', sans-serif;
+          --homeImage: url('https://cdn.discordapp.com/attachments/993401212525363260/1000801584709652541/photo_2022-06-30_22-15-14.jpg');
+          --homeImageSize: cover;
+          --backgroundColor: #0d0d0d;
+          --backgroundImage: url('https://c.wallhere.com/photos/2f/6a/cars_car_sport_japan_skyline_germany_drag_photography-878521.jpg!d');
+          --backgroundPosition: center;
+          --backgroundSize: cover;
+          --backgroundRepeat: no-repeat;
+          --backgroundBlur: 0px;
+          --backgroundOpacity: 0.35;
+        }
